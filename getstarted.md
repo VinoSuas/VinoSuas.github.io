@@ -76,14 +76,10 @@ In other words, fork this project by clicking the __*Fork*__ button at the top r
 
 </div>
 
-<style>
-
 .gs-section-01 { 
      color: red;
      font-size: 30px;
 }
-
-</style>
 
 <div class="gs-section-02" markdown="1">
 
@@ -93,15 +89,10 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<style>
-
 .gs-section-02 { 
      color: blue;
      font-size: 30px;
 }
-
-</style>
-
 
 <div class="gs-section-03" markdown="1">
 
@@ -113,14 +104,10 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </div>
 
-<style>
-
 .gs-section-03 { 
      color: green;
      font-size: 30px;
 }
-
-</style>
 
 ### 4. Congratulations! You have a website!
 
