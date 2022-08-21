@@ -74,11 +74,11 @@ by clicking the Fork button on the top right corner in GitHub.
 
 In other words, fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
-</div>
+
 
 <style>
 
-.gs-section-01 h3 { 
+.gs-section-01 h2 { 
      color: red }
 
 .gs-section-01 p {
@@ -86,6 +86,8 @@ In other words, fork this project by clicking the __*Fork*__ button at the top r
 }
 
 </style>
+
+</div>
 
 <div class="gs-section-02" markdown="1">
 
