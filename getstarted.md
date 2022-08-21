@@ -74,20 +74,16 @@ by clicking the Fork button on the top right corner in GitHub.
 
 In other words, fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
-
+</div>
 
 <style>
 
-.gs-section-01 h2 { 
-     color: red }
-
-.gs-section-01 p {
+.gs-section-01 { 
+     color: red;
      font-size: 30px;
 }
 
 </style>
-
-</div>
 
 <div class="gs-section-02" markdown="1">
 
@@ -99,14 +95,13 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 <style>
 
-.gs-section-02 h3 { 
-     color: blue }
-
-.gs-section-02 p {
+.gs-section-02 { 
+     color: blue;
      font-size: 30px;
 }
 
 </style>
+
 
 <div class="gs-section-03" markdown="1">
 
@@ -120,10 +115,8 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 <style>
 
-.gs-section-03 h3 { 
-     color: green }
-
-.gs-section-03 p {
+.gs-section-03 { 
+     color: green;
      font-size: 30px;
 }
 
